@@ -1,0 +1,16 @@
+com.zebrands.products
+com.zebrands.products.annotations
+com.zebrands.products.configurations
+com.zebrands.products.constants
+com.zebrands.products.controllers
+com.zebrands.products.dto
+com.zebrands.products.entity
+com.zebrands.products.exception
+com.zebrands.products.handler
+com.zebrands.products.interceptors
+com.zebrands.products.manager
+com.zebrands.products.repository
+com.zebrands.products.requesters
+com.zebrands.products.requesters.impl
+com.zebrands.products.service
+com.zebrands.products.service.impl
